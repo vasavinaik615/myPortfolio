@@ -12,7 +12,7 @@
         <nav>
             <ul>
                 <li><a href="http://aboutme.com">About Me</a>
-                <p></p></li>
+                <p>I'm a developper</p></li>
                 <li><a href="">Projects</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
